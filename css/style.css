@@ -19,7 +19,7 @@ body{
     display:flex;
     justify-content: center;
     align-items: center;
-  background:linear-gradient(rgba(0,0,0,0.01),white),url(/img/bg4.jpg);
+  background:linear-gradient(rgba(0,0,0,0.01),white),url(../img/bg4.jpg);
 background-size: cover;
 background-color:;
 }
@@ -317,7 +317,7 @@ height: 300px;
     /* testimonial*/
 
 .testimonials{
-    background: url(/img/bg2.jpg);
+    background: url(../img/bg2.jpg);
     background-size: cover;
 }
 .white .titletext,
@@ -379,7 +379,7 @@ font-weight: 300;
 
 
 .contact {
-    background: url(/img/bg3.jpg);
+    background: url(../img/bg3.jpg);
     background-size: cover;
 }
 .contactform {
@@ -480,14 +480,14 @@ font-size: 1.6cm;
 position: relative;
 height: 40px;
 width: 40px;
-background: url(/img/menu.png);
+background: url(../img/menu.png);
 background-size: 30px;
 background-repeat: no-repeat;
 background-position:center ;
 cursor: pointer;
     }
     .menutoggle .active {
-        background: url(/img/close.png);
+        background: url(../img/close.png);
         background-size: 25px;
         background-repeat: no-repeat;
         background-position: center;
